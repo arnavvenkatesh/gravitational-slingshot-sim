@@ -1,0 +1,8 @@
+gravitational-slingshot-sim/
+│
+├── README.md
+├── src/                  ← all Python simulation code goes here
+├── data/                 ← CSV outputs from parameter sweeps
+├── plots/                ← saved figures/graphs
+├── docs/                 ← physics notes, paper drafts
+└── notebooks/            ← Jupyter notebooks
